@@ -6,8 +6,3 @@ def func_del(arg_1,arg_2):
         return ('деление на 0')
     return arg_1/arg_2
 print(func_del(a,b))
-
-
-
-
-
